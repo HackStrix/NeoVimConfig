@@ -1,9 +1,13 @@
-**This repo is supposed to used as config by NvChad users!**
+## My custom NeoVim configurations
 
-- The main nvchad repo (NvChad/NvChad) is used as a plugin by this repo.
-- So you just import its modules , like `require "nvchad.options" , require "nvchad.mappings"`
-- So you can delete the .git from this repo ( when you clone it locally ) or fork it :)
-
-# Credits
-
-1) Lazyvim starter https://github.com/LazyVim/starter as nvchad's starter was inspired by Lazyvim's . It made a lot of things easier!
+### My configurations include
+- GigaChad base configuration
+- leader key changed to `f`
+- `fso` to look at file objects
+- preview functions
+  - `gpd` for previewing function definitions
+  - `gpr` for previewing function references
+  - `gpi` for previewing implementation
+  - `gP` for closing the preview window
+- Also includes file structure search using `fff`
+` I plan to continously add more until satisfied.
