@@ -10,4 +10,5 @@
   - `gpi` for previewing implementation
   - `gP` for closing the preview window
 - Also includes file structure search using `fff`
-` I plan to continously add more until satisfied.
+
+> I plan to continously add more until satisfied.
