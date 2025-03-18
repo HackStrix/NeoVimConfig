@@ -11,4 +11,4 @@
   - `gP` for closing the preview window
 - Also includes file structure search using `fff`
 
-> I plan to continously add more until `I start forgetting stuff myself`
+> I plan to continously add more until `I start forgetting stuff` :dizzy_face:
